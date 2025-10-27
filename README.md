@@ -10,7 +10,7 @@ A modern, interactive web application featuring responsive profile tabs and an a
 ## 🚀 Live Demo
 
 - **Live URL**: [Your Deployment URL Here]
-- **Repository**: [https://github.com/YOUR_USERNAME/profile-gallery-widgets](https://github.com/YOUR_USERNAME/profile-gallery-widgets)
+- **Repository**: [https://github.com/YOUR_USERNAME/profile-gallery-widgets](https://github.com/mdsahilkhan2001/profile-gallery-widgets)
 
 ## 📋 Overview
 
